@@ -59,6 +59,14 @@ Passion: Building Real World Projects
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DBMS-336791?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Operating_System-6C757D?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=flat-square"/>
+
 </div>
 
 
