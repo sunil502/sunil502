@@ -1,15 +1,6 @@
-
 <div align="center">
 
-<img width="100%" height="350px" src="https://raw.githubusercontent.com/sunil502/sunil502/main/banner.png"/>
-
-</div>
- 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Software Developer;Backend Developer;DSA+Problem+Solver"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;Data+Scientist;AI+Enthusiast"/>
 
 </div>
 
