@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;AI+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Software+Developer;Backend+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 </div>
 
@@ -76,6 +76,28 @@ Passion: Building Real World Projects
 <div align="center">
 
 ### 📈 Statistics
+
+<table align="center" style="border-collapse: collapse; background: #0D1117; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 20px; border-right: 2px solid #C084FC;">
+      <h2 style="color: #A855F7; font-size: 3em; margin: 0;">701</h2>
+      <p style="color: #C084FC; font-size: 1.1em; margin-top: 10px;">Total Contributions</p>
+      <p style="color: #888; font-size: 0.9em;">Apr 22, 2022 - Present</p>
+    </td>
+    <td align="center" style="padding: 20px; border-right: 2px solid #C084FC;">
+      <h2 style="color: #A855F7; font-size: 3em; margin: 0;">0</h2>
+      <p style="color: #C084FC; font-size: 1.1em; margin-top: 10px;">Current Streak</p>
+      <p style="color: #888; font-size: 0.9em;">Aug 23</p>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <h2 style="color: #A855F7; font-size: 3em; margin: 0;">23</h2>
+      <p style="color: #C084FC; font-size: 1.1em; margin-top: 10px;">Longest Streak</p>
+      <p style="color: #888; font-size: 0.9em;">Jul 20 - Aug 11</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sunil502&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
 
