@@ -70,6 +70,27 @@ Passion: Building Real World Projects
 </div>
 
 
+---
+
+<div align="center">
+
+### 📈 Statistics
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sunil502&theme=midnight-purple&hide_border=true&background=0D1117&ring=C084FC&fire=A855F7&currStreakLabel=C084FC"/>
+
+<br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunil502&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunil502&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunil502&theme=tokyonight"/>
+
+</div>
+
+
+
+
 
 <div align="center">
 
