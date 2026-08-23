@@ -49,7 +49,7 @@ Passion: Building Real World Projects
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Purvijain1234&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sunil502&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
